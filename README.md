@@ -14,8 +14,10 @@ CS & Business student at Northeastern University | Fintech Enthusiast
 
 
 ## 💻 Tech Stack
-**Languages:** Java | Pyret
-**Tools:** Git | Davinci Resolve
+**Languages:** 
+- Java, Pyret
+**Tools:**
+- Git, Davinci Resolve, Computer Hardware Assembly/Repair
 
 ## 📫 Reach Me
 - Email: tylerjgladu@gmail.com
