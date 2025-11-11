@@ -15,7 +15,7 @@ CS & Business student at Northeastern University | Fintech Enthusiast
 
 ## 💻 Tech Stack
 **Languages:** 
-- Java, Pyret
+- Java, Python
 
 **Tools:**
 - Git, Davinci Resolve, Computer Hardware Assembly/Repair
