@@ -1,16 +1,24 @@
-# Hi, I'm Tyler 👋
+# Hi, I'm Tyler Gladu
 
 CS & Business student at Northeastern University | Fintech Enthusiast
 
 ## 🔭 Currently Working On
-- Building [project name] - a [brief description]
-- Learning advanced data structures and algorithms
+- Learning Python fundamentals through CS2000 coursework
+- Building a practice repository for data structures and algorithms problems
+- Exploring fintech applications and preparing for co-op opportunities
+
+## 🌱 Learning
+- Discrete Mathematics
+- Object-Oriented Programming in Python
+- Financial Analysis and Accounting Principles
+
 
 ## 💻 Tech Stack
-Java | Pyret | Linux | Git
+**Languages:** Java | Pyret
+**Tools:** Git | Davinci Resolve
 
 ## 📫 Reach Me
 - Email: tylerjgladu@gmail.com
 - LinkedIn: [your-profile]
 
-[View My Resume](link-to-resume)
+[View My Resume]((https://docs.google.com/document/d/1_NPngBRca1ZwkYp4c2o-JC7a5tOpy6pf0IH7-yJo_aw/edit?usp=sharing))
