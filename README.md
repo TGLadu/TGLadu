@@ -22,6 +22,6 @@ CS & Business student at Northeastern University | Fintech Enthusiast
 
 ## 📫 Reach Me
 - Email: tylerjgladu@gmail.com
-- LinkedIn: [your-profile]
+- LinkedIn: (https://www.linkedin.com/in/tyler-gladu-bb7783239/)
 
-[View My Resume]((https://docs.google.com/document/d/1_NPngBRca1ZwkYp4c2o-JC7a5tOpy6pf0IH7-yJo_aw/edit?usp=sharing))
+[View My Resume](https://docs.google.com/document/d/1_NPngBRca1ZwkYp4c2o-JC7a5tOpy6pf0IH7-yJo_aw/edit?usp=sharing)
