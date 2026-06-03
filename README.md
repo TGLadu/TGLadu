@@ -2,25 +2,25 @@
 
 CS & Business student at Northeastern University | Fintech Concentration
 
-## 🔭 Currently Working On
+## Currently Working On
 - Learning Python fundamentals through CS2000 coursework
 - Building a practice repository for data structures and algorithms problems
 - Exploring fintech applications and preparing for co-op opportunities
 
-## 🌱 Learning
+## Learning
 - Discrete Mathematics
 - Object-Oriented Programming in Python
 - Financial Analysis and Accounting Principles
 
 
-## 💻 Tech Stack
+## Tech Stack
 **Languages:** 
 - Java, Python
 
 **Tools:**
 - Git, Davinci Resolve, Computer Hardware Assembly/Repair
 
-## 📫 Reach Me
+## Reach Me
 - Email: tylerjgladu@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/tyler-gladu-bb7783239/)
 
