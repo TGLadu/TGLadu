@@ -1,6 +1,6 @@
 # Hi, I'm Tyler Gladu
 
-CS & Business student at Northeastern University | Fintech Concentration
+Computer Science & Business student at Northeastern University | Fintech Concentration
 
 ## Currently Working On
 - Learning Python fundamentals through CS2000 coursework
